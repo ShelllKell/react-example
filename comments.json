@@ -1,6 +1,6 @@
 [
-  {"author": "Pete Hunt", "text": "This is one comment."},
-  {"author": "Jordan Walke", "text": "This is *another* comment."},
-  {"author": "Shelby Kelly", "text": "Hiiiiiiiiii"},
-  {"author": "Andrew", "text": "I suck"}
+    {
+        "author": "Shelby Kelly",
+        "text": "I am such a cool comment."
+    }
 ]
